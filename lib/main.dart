@@ -1,0 +1,7 @@
+import 'package:flutter/material.dart';
+import 'package:groceries_app/my_app.dart';
+
+void main() {
+  runApp(const MyApp());
+}
+
